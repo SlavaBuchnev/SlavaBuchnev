@@ -13,5 +13,8 @@
 
 <div align="center">
     <h2><b>⭐ GitHub Stats</b></h2>
-    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slava55555&layout=compact&theme=cobalt" />
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slava55555&theme=apprentice&exclude=html,css,scss,jupyter%20Notebook" />
+        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slava55555&theme=apprentice&exclude=html,css,scss,jupyter%20Notebook" />
+    </div>
 </div>
