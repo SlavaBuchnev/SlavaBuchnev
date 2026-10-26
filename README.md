@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>💡About me</h2>
-    <a href="https://drive.google.com/file/d/1HoiZM_XRHUv4BowHlLdGOD2XP10dQqkn/view?usp=sharing"> <img height="40" src="https://img.shields.io/badge/resume-pdf-green.svg"></a>
+    <a href="https://slavabuchnev.github.io/Resume/index.pdf"> <img height="40" src="https://img.shields.io/badge/resume-pdf-green.svg"></a>
     <p>I'm a backend developer from Russia👨‍💻</p>
 </div>
 
